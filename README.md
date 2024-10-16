@@ -16,9 +16,9 @@ A user-friendly currency converter built using JavaScript, HTML, and CSS, with r
     https://github.com/Avntika257/Currency_Converter.git
 
   <br>
-  currency-converter/
-│
-├── index.html         # Main HTML file
-├── styles.css         # CSS file for styling
-├── script.js          # JavaScript file for logic and API calls
-└── README.md          # This README file
+  currency-converter/ <br>
+│<br>
+├── index.html         # Main HTML file<br>
+├── styles.css         # CSS file for styling<br>
+├── script.js          # JavaScript file for logic and API calls<br>
+└── README.md          # This README file<br>
